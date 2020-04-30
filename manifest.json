@@ -5,8 +5,12 @@
 	"start_url": "index.html",
 	"icons": [
 		{
-			"src": "/src/image/takosan.png",
-			"sizes": "32x32",
+			"src": "/src/image/icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},{
+			"src": "/src/image/icon-512x512.png",
+			"sizes": "512x512",
 			"type": "image/png"
 		}
 	]
