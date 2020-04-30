@@ -5,7 +5,7 @@
 	"start_url": "index.html",
 	"icons": [
 		{
-			"src": "/image/takosan.png",
+			"src": "image/takosan.png",
 			"sizes": "32x32",
 			"type": "image/png"
 		}
