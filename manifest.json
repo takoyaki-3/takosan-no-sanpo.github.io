@@ -1,0 +1,13 @@
+{
+	"short_name": "たこさんの散歩",
+	"name": "たこさんの散歩",
+	"display": "standalone",
+	"start_url": "index.html",
+	"icons": [
+		{
+			"src": "./images/takosan.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		}
+	]
+}
