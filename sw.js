@@ -1,8 +1,9 @@
 // キャッシュ名とキャッシュファイルの指定
 var CACHE_NAME = 'takosan-no-sanpo-caches';
 var urlsToCache = [
-	'./dist/bundle.js',
-	'./index.html'
+	'/',
+	'/dist/bundle.js',
+	'/index.html'
 ];
 
 // インストール処理
